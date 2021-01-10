@@ -1,5 +1,5 @@
-# apa GK suka bewan dek
-Ubed x Gans
+# APA GOBLOK
+MANSYUR GANS
 
 ### FOR TERMUX USER
 ```bash
@@ -8,8 +8,8 @@ Ubed x Gans
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/ubednihboss/botubed
-> cd botubed
+> git clone https://github.com/MansyurGans/botcokk
+> cd botcokk
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Ubed x Gans
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/ubednihboss/botubed
-> cd botubed
+> git clone https://github.com/MansyurGans/botcokk
+> cd botcokk
 > npm install
 ```
 ###### Run
@@ -31,6 +31,6 @@ Ubed x Gans
 ```
  SOSMED:
  
- Instagram: @ubed_zid
+ Instagram: @mansyur_gans
  
- Youtube: Jawara Slurd
+ Youtube: Sulton Mansyur
