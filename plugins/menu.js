@@ -32,8 +32,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [UBED BOT] 🤖
-Created Bye: @UBED X GANS
+🤖 [BOT MANSYUR] 🤖
+Created Bye: @Mansyur_Gans
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -95,18 +95,18 @@ Cara Tambah XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 IKLAN 〙 ═
-╠➥ Instagram: @ubed_zid
-╠➥ Github: https://github.com/ubednihboss
+╠➥ Instagram: @mansyur_gans
+╠➥ Github: https://github.com/MansyurGans
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : UBED BOT
+╠➥ Name : BOT MANSYUR
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? wa.me/6281358679254
+╠➥ Request? wa.me/6285377433822
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 UBED BOT 〙═
+╠═〘 BOT MANSYUR 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
